@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ad0199d6a19f884468e9216d60c8b5e0
+  - enabled: 1
+    path: Assets/Scenes/Filler 1.unity
+    guid: f33dd238fb531604ca6f652717501673
+  - enabled: 1
+    path: Assets/Scenes/Memory Phase.unity
+    guid: 54800b2af5295d042aa185495b209dd1
+  - enabled: 1
+    path: Assets/Scenes/Filler 2.unity
+    guid: 29c40ad9a6be0f2458b349eb542fae90
+  - enabled: 1
+    path: Assets/Scenes/Recall Phase.unity
+    guid: 5fce84b9d7fd63c42a6dddc26c11a1ad
+  - enabled: 1
+    path: Assets/Scenes/Final Scores.unity
+    guid: 4a72936cf01b3d048a6102d3c1492841
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7e97bed95a8802241ade0e1704abb155,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 44e4a22b0e5cece4e96bb124eb11fc8e,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ad4b3202f4827c4fbfbe777441a39f7,
+      type: 2}
